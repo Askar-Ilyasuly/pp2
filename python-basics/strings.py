@@ -5,6 +5,6 @@ if a > b:
     print(a)
 elif b > a:
     print(b)
-else:
+else :
     print("equal")
-
+    
